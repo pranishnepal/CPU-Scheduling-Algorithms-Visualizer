@@ -21,7 +21,7 @@ and would execute the scheduler (using the schedule of tasks `schedule.txt`) as 
 
 <b>Follow the same pattern for other schedulers.</b>
 
-## Example output
+## Example:
 
 Consider the following input for the priority scheduling algorithm:
 
@@ -53,7 +53,7 @@ Consider the following input for the priority scheduling algorithm:
 
 
 
-Output for the input above.
+Output for the input above:
 
     Running task = [P1] [10] [25] for 25 units
     Running task = [P4] [10] [40] for 40 units
