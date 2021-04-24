@@ -11,7 +11,7 @@ This project was done for EECS3221 class; it involves implementing four process 
 <b> Note: <i>Priorities range from 1 to 10, where a higher numeric value indicates a higher relative priority. 
 For round-robin scheduling, the length of a time `quantum` is `10` milliseconds. </i></b>
 
-## Implementation Details
+## How to run the schedulers?
 To build the FCFS scheduler, we would enter:
         
     make fcfs  
@@ -21,8 +21,7 @@ and would execute the scheduler (using the schedule of tasks `schedule.txt`) as 
 
 <b>Follow the same pattern for other schedulers.</b>
 
-## Example:
-
+## Example Input and Output:
 Consider the following input for the priority scheduling algorithm:
 
     P0, 9, 35
